@@ -1,0 +1,36 @@
+{
+    "catalogs": [
+      {
+        "catalogID": 1,
+        "catalogName": "Ini Mobil 1"
+      },
+      {
+        "catalogID": 2,
+        "catalogName": "Ini Mobil 2"
+      },
+      {
+        "catalogID": 3,
+        "catalogName": "Ini Mobil 3"
+      },
+      {
+        "catalogID": 4,
+        "catalogName": "Ini Mobil 4"
+      },
+      {
+        "catalogID": 5,
+        "catalogName": "Ini Mobil 5"
+      },
+      {
+        "catalogID": 6,
+        "catalogName": "Ini Mobil 7"
+      },
+      {
+        "catalogID": 7,
+        "catalogName": "Ini Mobil 7"
+      },
+      {
+        "catalogID": 8,
+        "catalogName": "Ini Mobil 8"
+      }
+    ]
+  }
