@@ -1,0 +1,84 @@
+{
+  "catalogs": [
+    {
+      "catalogID": 1,
+      "categoryID": 1,
+      "catalogName": "Ini Catalog 1",
+      "price": "Rp. 111,111,111",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "location": "Jakarta Barat"
+    },
+    {
+      "catalogID": 2,
+      "categoryID": 1,
+      "catalogName": "Ini Catalog 1",
+      "price": "Rp. 111,111,111",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "location": "Jakarta Sana"
+    },
+    {
+      "catalogID": 3,
+      "categoryID": 2,
+      "catalogName": "Ini Catalog 1",
+      "price": "Rp. 111,111,111",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "location": "Jakarta Sini"
+    },
+    {
+      "catalogID": 4,
+      "categoryID": 2,
+      "catalogName": "Ini Catalog 1",
+      "price": "Rp. 111,111,111",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "location": "Jakarta Timur"
+    },
+    {
+      "catalogID": 5,
+      "categoryID":2,
+      "catalogName": "Ini Catalog 1",
+      "price": "Rp. 111,111,111",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "location": "Jakarta Iyey"
+    },
+    {
+      "catalogID": 6,
+      "categoryID": 3,
+      "catalogName": "Ini Catalog 1",
+      "price": "Rp. 111,111,111",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "location": "Kampung Halaman"
+    },
+    {
+      "catalogID": 7,
+      "categoryID": 3,
+      "catalogName": "Ini Catalog 1",
+      "price": "Rp. 111,111,111",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "location": "Sekolah"
+    },
+    {
+      "catalogID": 8,
+      "categoryID": 3,
+      "catalogName": "Ini Catalog 1",
+      "price": "Rp. 111,111,111",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "location": "Jakarta Timur"
+    },
+    {
+      "catalogID": 9,
+      "categoryID": 1,
+      "catalogName": "Ini Catalog 1",
+      "price": "Rp. 111,111,111",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "location": "Jakarta Barat"
+    },
+    {
+      "catalogID": 10,
+      "categoryID": 1,
+      "catalogName": "Ini Catalog 1",
+      "price": "Rp. 111,111,111",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "location": "Jakarta Pusat"
+    }
+  ]
+}
