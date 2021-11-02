@@ -1,4 +1,4 @@
-[
+{"test": [
   {
     "ErrorCode": "0",
     "ErrorMessage": "SUCCESS",
@@ -22,3 +22,4 @@
     ]
   }
 ]
+}
