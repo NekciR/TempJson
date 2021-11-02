@@ -1,121 +1,24 @@
-{
-    "categories": [
+[
+  {
+    "ErrorCode": "0",
+    "ErrorMessage": "SUCCESS",
+    "DataValue": [
       {
-        "categoryID": 1,
-        "categoryName": "Motor"
-      },
-      {
-        "categoryID": 2,
-        "categoryName": "Mobil"
-      },
-      {
-        "categoryID": 3,
-        "categoryName": "Niaga"
-      },
-      {
-        "categoryID": 4,
-        "categoryName": "Properti"
-      }
-    ],
-
-    "users": [
-      {
-        "userID": 1,
-        "username": "Rickendy",
-        "email": "ken@mail.com",
-        "password": "123"
-      },
-      {
-        "userID": 2,
-        "username": "Devin",
-        "email": "vin@mail.com",
-        "password": "asd"
-      }
-    ],
-
-    "catalogs": [
-      {
-        "catalogID": 1,
-        "categoryID": 1,
-        "catalogName": "Ini Catalog 1",
-        "price": "Rp. 111,111,111",
-        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "location": "Jakarta Barat"
-      },
-      {
-        "catalogID": 2,
-        "categoryID": 1,
-        "catalogName": "Ini Catalog 1",
-        "price": "Rp. 111,111,111",
-        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "location": "Jakarta Sana"
-      },
-      {
-        "catalogID": 3,
-        "categoryID": 2,
-        "catalogName": "Ini Catalog 1",
-        "price": "Rp. 111,111,111",
-        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "location": "Jakarta Sini"
-      },
-      {
-        "catalogID": 4,
-        "categoryID": 2,
-        "catalogName": "Ini Catalog 1",
-        "price": "Rp. 111,111,111",
-        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "location": "Jakarta Timur"
-      },
-      {
-        "catalogID": 5,
-        "categoryID":2,
-        "catalogName": "Ini Catalog 1",
-        "price": "Rp. 111,111,111",
-        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "location": "Jakarta Iyey"
-      },
-      {
-        "catalogID": 6,
-        "categoryID": 3,
-        "catalogName": "Ini Catalog 1",
-        "price": "Rp. 111,111,111",
-        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "location": "Kampung Halaman"
-      },
-      {
-        "catalogID": 7,
-        "categoryID": 3,
-        "catalogName": "Ini Catalog 1",
-        "price": "Rp. 111,111,111",
-        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "location": "Sekolah"
-      },
-      {
-        "catalogID": 8,
-        "categoryID": 3,
-        "catalogName": "Ini Catalog 1",
-        "price": "Rp. 111,111,111",
-        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "location": "Jakarta Timur"
-      },
-      {
-        "catalogID": 9,
-        "categoryID": 1,
-        "catalogName": "Ini Catalog 1",
-        "price": "Rp. 111,111,111",
-        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "location": "Jakarta Barat"
-      },
-      {
-        "catalogID": 10,
-        "categoryID": 1,
-        "catalogName": "Ini Catalog 1",
-        "price": "Rp. 111,111,111",
-        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "location": "Jakarta Pusat"
+        "NoDataUser": 16,
+        "NoDataTipeUser": 2,
+        "Email": "CobaServiceEncrypt@imfi.com",
+        "Password": "tk7NbcW/mwAo4DXrL0UOXQ==",
+        "Nama": "CobaService1",
+        "NIK": "99999543",
+        "TanggalLahir": "/Date(946659600000)/",
+        "Telepon": "081277666663",
+        "Koordinat": "-6.2424647563198645, 106.8645110264107",
+        "Alamat": "Jl. Letjen M.T. Haryono No.kav.11, RT.4/RW.6, Bidara Cina, Kecamatan Jatinegara, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13330",
+        "DibuatOleh": null,
+        "WaktuDibuat": "/Date(1635320890210)/",
+        "DiubahOleh": null,
+        "WaktuDiubah": "/Date(1635320890210)/"
       }
     ]
-
-
-
   }
+]
